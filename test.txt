@@ -1,7 +1,8 @@
 3 love
  6 computers
- 2,dogs
+ 2 dogs
  4 cats
-  1,I
+ 1,I
  5, you
  7,bird
+ 8, me
